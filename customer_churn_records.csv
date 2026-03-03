@@ -1,0 +1,101 @@
+Customer_ID,Name,Age,Gender,City,Income,Tenure_Months,Total_Purchases,Avg_Order_Value,Last_Purchase_Days_Ago,Payment_Method,Is_Active,Complaints,Discount_Used,Churn
+1,Vikram,,Male,,,2,95,2753,63,,0,1,,1
+2,Neha,21.0,Female,Bangalore,32280.0,14,30,4639,155,Credit Card,1,0,16.84,1
+3,Priya,30.0,Female,Pune,75392.0,22,36,1773,56,UPI,1,2,3.07,0
+4,Anjali,22.0,Male,Surat,80217.0,35,16,3600,21,Credit Card,1,4,8.8,1
+5,Amit,34.0,Female,Pune,57930.0,6,30,1327,98,Debit Card,1,2,13.6,1
+6,Arjun,37.0,Female,Delhi,29358.0,39,82,1901,137,UPI,1,5,7.34,1
+7,Neha,23.0,Female,Jaipur,50021.0,53,5,3084,103,Cash,1,2,1.99,1
+8,Sneha,29.0,Male,Mumbai,54718.0,9,32,4915,68,Cash,1,5,17.54,1
+9,Anjali,25.0,Male,Jaipur,26175.0,56,15,1752,161,Cash,1,1,23.76,1
+10,Sneha,58.0,Male,Bangalore,81348.0,34,33,594,175,Cash,1,5,3.44,1
+11,Karan,,Male,,,1,93,2657,129,,0,1,,1
+12,Sneha,30.0,Female,Delhi,90697.0,50,68,504,154,Credit Card,0,2,14.66,1
+13,Pooja,35.0,Male,Bangalore,94364.0,6,11,4481,18,Cash,0,4,22.98,1
+14,Pooja,33.0,Female,Surat,90686.0,49,94,2147,80,Debit Card,1,3,29.85,0
+15,Neha,34.0,Male,Ahmedabad,28392.0,22,3,2385,151,UPI,0,1,0.22,1
+16,Neha,24.0,Female,Jaipur,87391.0,16,36,4476,55,Debit Card,1,4,3.97,1
+17,Priya,26.0,Male,Jaipur,32704.0,43,56,3402,109,UPI,0,3,14.01,1
+18,Pooja,26.0,Male,Surat,52591.0,13,25,4893,115,Cash,1,1,12.66,1
+19,Amit,55.0,Female,Chennai,32833.0,4,84,4928,4,Cash,0,0,27.79,1
+20,Pooja,33.0,Female,Jaipur,72565.0,58,8,1848,98,Cash,1,0,29.56,1
+21,Rahul,29.0,Male,Chennai,44890.0,19,28,979,149,Debit Card,1,5,16.27,1
+22,Arjun,23.0,Male,Delhi,86562.0,6,24,1061,153,Credit Card,0,0,20.26,1
+23,Neha,,Female,,,27,85,4782,81,,1,2,,0
+24,Priya,39.0,Male,Bangalore,79929.0,21,97,1094,3,Debit Card,0,3,18.63,1
+25,Anjali,42.0,Male,Bangalore,29016.0,57,32,3527,73,Credit Card,1,1,13.15,0
+26,Neha,28.0,Female,Chennai,54664.0,8,14,1773,70,UPI,1,2,18.14,0
+27,Karan,23.0,Male,Chennai,32097.0,41,55,2766,12,Cash,0,0,10.01,1
+28,Arjun,55.0,Male,Ahmedabad,21267.0,8,10,1721,140,UPI,0,0,25.04,1
+29,Vikram,43.0,Female,Mumbai,25229.0,58,46,2220,175,Debit Card,1,1,20.01,1
+30,Neha,30.0,Female,Mumbai,43206.0,57,53,703,46,Credit Card,1,5,27.73,1
+31,Neha,44.0,Male,Delhi,25075.0,55,61,2322,52,Cash,0,3,10.49,1
+32,Rahul,41.0,Male,Bangalore,56517.0,56,9,2786,90,Debit Card,1,5,15.28,1
+33,Anjali,57.0,Male,Jaipur,54795.0,3,14,4059,89,Debit Card,1,5,23.59,1
+34,Sneha,36.0,Female,Surat,25817.0,46,56,513,134,UPI,0,4,20.61,1
+35,Arjun,59.0,Female,Mumbai,61145.0,43,16,2960,130,Debit Card,1,2,20.01,1
+36,Karan,46.0,Female,Delhi,69695.0,44,96,1925,158,Cash,0,4,9.03,1
+37,Amit,57.0,Male,Bangalore,99516.0,42,42,4309,114,UPI,1,3,20.27,1
+38,Pooja,25.0,Male,Chennai,50784.0,44,40,2340,51,Cash,0,1,0.73,1
+39,Priya,60.0,Female,Delhi,95454.0,13,92,3645,127,Debit Card,0,3,7.32,1
+40,Vikram,,Female,,,4,72,2541,32,,1,3,,0
+41,Vikram,55.0,Female,Delhi,78446.0,58,21,4388,116,UPI,1,2,22.55,1
+42,Amit,48.0,Male,Delhi,30155.0,46,37,2420,70,Cash,0,2,9.59,1
+43,Neha,29.0,Female,Jaipur,48043.0,5,54,3839,85,Credit Card,0,4,13.98,1
+44,Vikram,56.0,Male,Chennai,69857.0,31,1,3381,77,Debit Card,1,3,25.6,0
+45,Amit,,Female,,,32,4,3685,87,,1,5,,1
+46,Amit,,Male,,,37,85,722,22,,1,5,,1
+47,Karan,40.0,Male,Chennai,47742.0,30,42,3264,98,Credit Card,1,2,22.56,1
+48,Neha,54.0,Male,Mumbai,26826.0,23,29,1062,167,Debit Card,0,0,22.63,1
+49,Amit,28.0,Male,Mumbai,82070.0,43,15,2285,120,UPI,1,5,7.69,1
+50,Priya,26.0,Female,Surat,95849.0,2,40,3574,102,Credit Card,0,5,5.95,1
+51,Arjun,42.0,Female,Surat,89827.0,28,85,3535,18,Cash,0,4,19.43,1
+52,Anjali,43.0,Female,Chennai,80258.0,46,20,4067,46,Cash,1,5,15.65,1
+53,Anjali,57.0,Female,Pune,55179.0,21,32,1209,72,Credit Card,1,3,7.32,0
+54,Vikram,,Male,,,12,63,2237,91,,1,2,,1
+55,Pooja,35.0,Male,Surat,73271.0,32,72,2468,177,UPI,1,3,19.38,1
+56,Arjun,34.0,Female,Pune,73005.0,45,32,3008,170,Cash,1,4,11.07,1
+57,Neha,37.0,Male,Chennai,60189.0,17,30,1488,50,UPI,0,2,3.59,1
+58,Karan,57.0,Male,Mumbai,88765.0,39,37,1323,50,UPI,0,2,6.82,1
+59,Anjali,22.0,Female,Chennai,27146.0,36,38,1534,164,Cash,0,3,3.08,1
+60,Pooja,48.0,Male,Ahmedabad,64657.0,12,7,2568,123,Debit Card,1,0,24.66,1
+61,Vikram,29.0,Female,Chennai,93772.0,20,11,2533,31,Cash,0,4,22.93,1
+62,Neha,39.0,Female,Surat,97139.0,28,40,993,157,Debit Card,0,5,2.98,1
+63,Karan,35.0,Male,Delhi,42782.0,36,10,1782,1,UPI,1,3,13.52,0
+64,Arjun,38.0,Male,Delhi,79510.0,5,88,2412,68,Debit Card,0,5,17.69,1
+65,Pooja,37.0,Male,Chennai,38643.0,5,8,1859,79,UPI,1,4,22.47,1
+66,Sneha,45.0,Female,Ahmedabad,55683.0,33,70,4545,113,Credit Card,1,0,17.94,1
+67,Pooja,34.0,Female,Bangalore,95392.0,38,3,2707,148,Debit Card,0,0,22.89,1
+68,Priya,57.0,Male,Pune,77132.0,41,63,1247,121,Cash,1,2,12.25,1
+69,Priya,51.0,Female,Ahmedabad,57777.0,43,52,800,117,Cash,1,0,9.44,1
+70,Neha,46.0,Female,Mumbai,27104.0,13,67,3463,160,UPI,0,3,18.76,1
+71,Priya,,Male,,,8,4,2460,41,,1,2,,0
+72,Pooja,27.0,Male,Chennai,40181.0,32,92,2890,131,Debit Card,1,5,8.2,1
+73,Sneha,44.0,Female,Ahmedabad,44983.0,59,77,4663,35,UPI,1,0,8.29,0
+74,Sneha,39.0,Female,Chennai,96931.0,38,85,4511,39,UPI,1,3,16.16,0
+75,Arjun,32.0,Female,Mumbai,51300.0,37,50,2413,106,Cash,1,0,9.55,1
+76,Rahul,22.0,Male,Jaipur,36547.0,33,76,3219,26,Debit Card,1,3,2.99,0
+77,Sneha,24.0,Female,Pune,81537.0,51,34,3273,160,Cash,0,5,11.92,1
+78,Priya,54.0,Female,Surat,24705.0,40,9,2423,162,Credit Card,0,5,27.63,1
+79,Sneha,48.0,Female,Jaipur,41805.0,45,39,737,12,Debit Card,1,2,23.88,0
+80,Anjali,35.0,Male,Chennai,89621.0,27,73,1975,44,Debit Card,1,1,2.37,0
+81,Karan,,Male,,,41,33,4264,66,,1,5,,1
+82,Neha,42.0,Female,Chennai,97014.0,20,82,3975,177,Credit Card,1,2,13.71,1
+83,Karan,35.0,Male,Ahmedabad,69986.0,37,46,2923,180,Cash,1,2,0.66,1
+84,Priya,,Male,,,39,46,2294,163,,0,1,,1
+85,Amit,22.0,Male,Mumbai,95965.0,24,94,1576,24,UPI,1,2,9.8,0
+86,Sneha,53.0,Male,Chennai,85771.0,59,35,1847,66,Credit Card,1,3,29.02,0
+87,Rahul,29.0,Female,Surat,49571.0,56,87,3755,143,Cash,1,2,2.71,1
+88,Anjali,43.0,Female,Delhi,54362.0,38,49,3543,28,Credit Card,0,5,7.01,1
+89,Rahul,60.0,Female,Chennai,80852.0,59,90,2975,167,Credit Card,0,3,3.5,1
+90,Anjali,26.0,Male,Jaipur,50775.0,57,69,1611,100,Credit Card,1,3,11.13,1
+91,Sneha,51.0,Male,Pune,73492.0,18,5,3535,56,UPI,0,3,13.34,1
+92,Rahul,23.0,Female,Delhi,72184.0,18,25,1500,117,Debit Card,0,0,19.88,1
+93,Sneha,56.0,Male,Ahmedabad,46896.0,5,98,2197,151,UPI,0,1,24.39,1
+94,Rahul,29.0,Female,Delhi,37038.0,35,33,1929,29,UPI,0,5,25.99,1
+95,Pooja,21.0,Female,Pune,42838.0,17,7,1538,108,Credit Card,0,4,3.41,1
+96,Rahul,48.0,Female,Jaipur,86039.0,15,79,855,169,Cash,0,4,9.05,1
+97,Amit,26.0,Female,Pune,84260.0,46,57,1102,21,Cash,0,2,18.25,1
+98,Vikram,58.0,Male,Jaipur,89541.0,19,59,4641,155,Cash,0,3,2.98,1
+99,Sneha,34.0,Female,Pune,74239.0,22,59,3766,107,Debit Card,1,5,2.85,1
+100,Amit,50.0,Male,Pune,28799.0,6,11,1263,111,Credit Card,1,0,22.34,1
